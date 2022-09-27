@@ -14,7 +14,7 @@ Build a linear regression model that predicts the price of a used phone and iden
 ### Data Information:  
 brand_name: Name of manufacturing brand  
 os: OS on which the phone runs  
-screen_size: Size of the screen in cm  
+screen_size: Sizes of the screen in cm  
 4g: Whether 4G is available or not  
 5g: Whether 5G is available or not  
 main_camera_mp: Resolution of the rear camera in megapixels  
