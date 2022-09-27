@@ -27,3 +27,5 @@ release_year: Year when the phone model was released
 days_used: Number of days the used/refurbished phone has been used  
 new_price: Price of a new phone of the same model in euros  
 used_price: Price of the used/refurbished phone in euros 
+
+#### end
