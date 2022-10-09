@@ -8,7 +8,7 @@ There are many advantages to using a used cell phone:
 
 ReCell is a start-up looking to take advantage of the potential boom in the industry and are looking to use ML to understand the dynamics.
 
-Build a linear regression model that predicts the price of a used phone and identify factors that significantly influence the price.  
+Build a linear regression model that predicts the price of a used phone and identify factors that significantly influence the price. A secondary objective is to identify variables that directly affect the price. This will help with directing the marketing efforts for ReCell.
 
 
 ### Data Information:  
